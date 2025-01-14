@@ -1,0 +1,12 @@
+
+int getLiveCount(const char* world) {
+    int count = 0;
+
+    for (int i = 0; i < XLine*YLine; ++i) {
+        if (world[i]) {
+            ++count;
+        }
+    }
+
+    return count;
+} 
