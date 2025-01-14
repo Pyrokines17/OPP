@@ -1,4 +1,3 @@
-
 int getLiveCount(const char* world) {
     int count = 0;
 
