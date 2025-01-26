@@ -1,1 +1,1 @@
-# Repository for Parallel Programming Basics
+# Repository for "Parallel Programming Basics" labs
